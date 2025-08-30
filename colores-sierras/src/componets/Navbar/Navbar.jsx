@@ -13,9 +13,7 @@ const Navbar = () => {
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="/contacto">
-                        <a>Contacto</a>
-                    </NavLink>
+                    <a href="https://wa.me/1121687636?text=Hola%20quiero%20m%C3%A1s%20informaci%C3%B3n%20sobre%20las%20caba%C3%B1as" target="_blank">Contacto</a>
                 </li>
             </ul>
         </header>
